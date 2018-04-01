@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<link rel="stylesheet" href='{{ "/css/resume.css" | prepend: site.baseurl }}'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.0/normalize.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<body lang="en">
+<div class="wrapper">
+
+</div>
+{{ content }}
+<aside id="sidebar">
+    <div class="side-block" id="contact">
+        <h1>
+            Contact Info
+        </h1>
+        <ul>
+            <li><i class="fa fa-globe"></i> samarthsinha.me</li>
+            <li><i class="fa fa-linkedin"></i> linkedin.com/in/sinha-samarth</li>
+            <li><i class="fa fa-envelope"></i> samarthsinha93@gmail.com</li>
+            <li><i class="fa fa-phone"></i> +918447813975</li>
+        </ul>
+    </div>
+    <div class="side-block" id="skills">
+        <h1>
+            Skills
+        </h1>
+        <ul>
+            <li><b>PROGRAMMING LANGUAGES</b></li>
+            <li>Java</li>
+            <li>Javascript</li>
+            <li>PHP</li>
+            <li>C</li>
+        </ul>
+        <ul>
+            <li><B>DATABASES</B></li>
+            <li>Redis</li>
+            <li>MongoDB</li>
+            <li>Cassandra</li>
+            <li>MySQL</li>
+            <li>Apache Solr</li>
+            <li>Elasticsearch</li>
+        </ul>
+
+        <ul>
+            <li><B>FRAMEWORKS</B></li>
+            <li>Spring Framework - Java</li>
+            <li>jQuery - Javascript</li>
+            <li>AngularJs - Javascript</li>
+            <li>Bootstrap</li>
+        </ul>
+
+        <ul>
+            <li><B>VCS</B></li>
+            <li>git</li>
+        </ul>
+    </div>
+    <!--<div class="side-block" id="disclaimer">-->
+        <!--This r&eacute;sum&eacute; was wholly typeset with HTML/CSS &mdash; see <code>git.io/vVSYL</code>-->
+    <!--</div>-->
+</aside>
+</body>
+</html>
