@@ -11,6 +11,6 @@ This is my first test post from jekyll
 #include <stdio.h>
 int main(void)
 {
-printf("hello, world\n");
+    printf("hello, world\n");
 }
 {% endhighlight %}
