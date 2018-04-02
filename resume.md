@@ -159,6 +159,7 @@ permalink: /resume
                     <span class="place">BITS Pilani</span>
                     <span class="location">Goa, India</span>
                 </header>
+                <div>7.17/10</div>
                 <!--<div>Pursued Bachelor of Engineering in Computer Science</div>-->
             </div>
         </section>
@@ -170,11 +171,11 @@ permalink: /resume
             </div>
             <div class="details">
                 <header>
-                    <h3>AISSCE</h3>
+                    <h3>AISSCE (Class XII)</h3>
                     <span class="place">Jawahar Vidya Mandir, Shyamali</span>
                     <span class="location">Ranchi, Jharkhand, India</span>
                 </header>
-                <!--<div>President's Scholarship</div>-->
+                <div>89.2%</div>
             </div>
         </section>
         <section class="blocks">
@@ -185,11 +186,11 @@ permalink: /resume
             </div>
             <div class="details">
                 <header>
-                    <h3>AISSE</h3>
+                    <h3>AISSE (Class X)</h3>
                     <span class="place">DAV Jawahar Vidya Mandir, Shyamali</span>
                     <span class="location">Ranchi, Jharkhand, India</span>
                 </header>
-                <!--<div>President's Scholarship</div>-->
+                <div>93.4%</div>
             </div>
         </section>
     </section>
