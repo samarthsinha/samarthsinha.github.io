@@ -22,7 +22,7 @@
   --decorator-border-width: 1px;
   --decorator-outer-dim: 9px;
   --decorator-border: 1px solid #ccc;
-
+  -webkit-print-color-adjust: exact;
   --row-blocks-padding-top: 5pt;
   --date-block-width: 0.6in;
 
@@ -332,6 +332,7 @@ li{
 
 #contact ul{
   margin-top: 0.05in;
+  margin-left:0;
   padding-left: 0;
   font-family: "Source Code Pro";
   font-weight: 400;
