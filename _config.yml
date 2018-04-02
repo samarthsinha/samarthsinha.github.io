@@ -23,7 +23,7 @@ analytics :
   provider : google 
   google : 
       tracking_id : 'UA-66360893-1'
-exclude: ['CNAME','.idea/workspace.xml']
+exclude: ['CNAME','.idea/workspace.xml','*.iml']
 timezone: Asia/Calcutta
 plugins:
   - jekyll-sitemap
