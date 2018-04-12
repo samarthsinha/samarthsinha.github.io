@@ -26,10 +26,10 @@ permalink: /resume
                 </header>
                 <div>
                     <ul>
-                        <li>Currently working on customer care automation engine called Decision Tree</li>
-                        <li>Worked on projects like myJackpot, TaURUs, API discovery platform using swagger-core libraries</li>
-                        <li> Technologies used: Java, Cassandra, Redis, Elasticsearch, Swagger, Angularjs, Spring
-                             Framework</li>
+                        <li>Currently working as backend developer on customer care automation engine Decision Tree.</li>
+                       <li>Worked on projects like myJackpot, TaURUs, API discovery platform using swagger-core libraries</li>
+                       <li> Technologies used: Java, MongoDb , Redis, Elasticsearch, Swagger, Cassandra,Spring
+                            Framework</li>
                     </ul>
                 </div>
             </div>
