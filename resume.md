@@ -26,7 +26,9 @@ permalink: /resume
                 </header>
                 <div>
                     <ul>
-                        <li>Currently working as backend developer on customer care automation engine Decision Tree.</li>
+                       <li>Involved in POC's for new projects/requirements, requirement gathering &, application development.
+</li>
+                       <li>Worked as backend engineer for automation of workflows for Call Centre & B2C platforms for improving the customer experience & help in reducing the overall AHT[Average Handling Time] for the customers.</li>
                        <li>Worked on projects like myJackpot, TaURUs, API discovery platform using swagger-core libraries</li>
                        <li> Technologies used: Java, MongoDb , Redis, Elasticsearch, Swagger, Cassandra,Spring
                             Framework</li>
