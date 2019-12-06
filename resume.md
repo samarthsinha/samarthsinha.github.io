@@ -20,7 +20,7 @@ permalink: /resume
             </div>
             <div class="details">
                 <header>
-                    <h3>Senior Software Engineer</h3>
+                    <h3>{{site.current_profile}}</h3>
                     <span class="place">Bharti Airtel Limited</span>
                     <span class="location">Gurgaon, Haryana, India</span>
                 </header>
