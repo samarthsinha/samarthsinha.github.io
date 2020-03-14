@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Writing modular code in C!"
+title:  "Writing modular code in C"
 date:   2018-03-31 23:36:10
 categories: c
 author: Samarth
+published: false
 ---
 I will be writing a very simple C program that contains multiple implementation of Stacks.
 

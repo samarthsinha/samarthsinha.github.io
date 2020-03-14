@@ -149,6 +149,17 @@ pre {
 }
 
 
+.header-wrapper{
+    margin-right: 0;
+    margin-left: 0;
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
+}
+
+.site_logo{
+    width: 150px;
+    height: auto;
+}
 
 /**
  * Wrapper
