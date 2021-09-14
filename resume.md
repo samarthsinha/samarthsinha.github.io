@@ -26,6 +26,7 @@ permalink: /resume
                 </header>
                 <div>
                     <ul>
+                       <li>Leading a team for delivering end to end solution for Field workforce management application.</li>
                        <li>Involved in POC's for new projects/requirements, requirement gathering &, application development.
 </li>
                        <li>Worked as backend engineer for automation of workflows for Call Centre & B2C platforms for improving the customer experience & help in reducing the overall AHT[Average Handling Time] for the customers.</li>
