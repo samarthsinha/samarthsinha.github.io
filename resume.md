@@ -12,15 +12,37 @@ permalink: /resume
         <h2>
             <i class="fa fa-suitcase"></i> Experiences
         </h2>
+        
         <section class="blocks">
             <div class="date">
-                <span>Apr 2016</span><span>present</span>
+                <span>Dec 2021</span><span>present</span>
             </div>
             <div class="decorator">
             </div>
             <div class="details">
                 <header>
                     <h3>{{site.current_profile}}</h3>
+                    <span class="place">Acko</span>
+                    <span class="location">Gurgaon, Haryana, India</span>
+                </header>
+                <div>
+                    <ul>
+                       <li>Leading a team of 8 engineers for delivering best experience to Corporates having Group Medical Insurance with Acko</li>
+                       <li> Technologies used: Java, Postgres , Redis, Elasticsearch, AWS Dynamodb, AWS Lambda, AWS Step function,Spring</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        
+        <section class="blocks">
+            <div class="date">
+                <span>Apr 2016</span><span>Dec 2021</span>
+            </div>
+            <div class="decorator">
+            </div>
+            <div class="details">
+                <header>
+                    <h3>Sr. Lead Engineer</h3>
                     <span class="place">Bharti Airtel Limited</span>
                     <span class="location">Gurgaon, Haryana, India</span>
                 </header>
