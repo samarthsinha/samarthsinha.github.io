@@ -84,7 +84,7 @@ permalink: /resume
                 </div>
             </div>
         </section>
-        <section class="blocks">
+<!--         <section class="blocks">
             <div class="date">
                 <span>Jul 2013</span><span>Dec 2013</span>
             </div>
@@ -105,7 +105,7 @@ permalink: /resume
                     </ul>
                 </div>
             </div>
-        </section>
+        </section> -->
     </section>
     <!--<section class="main-block">
         <h2>
