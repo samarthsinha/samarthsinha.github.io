@@ -6,7 +6,7 @@ permalink: /resume
 <section id="main">
     <header id="title">
         <h1>Samarth Sinha</h1>
-        <span class="subtitle">{{site.current_profile}}</span>
+<!--         <span class="subtitle">{{site.current_profile}}</span> -->
     </header>
     <section class="main-block">
         <h2>
