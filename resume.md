@@ -12,29 +12,31 @@ permalink: /resume
         <h2>
             <i class="fa fa-suitcase"></i> Experiences
         </h2>
+    <section class="blocks">
+        <div class="date">
+            <span>Dec 2021</span><span>current</span>
+        </div>
+        <div class="decorator">
+        </div>
+        <div class="details">
+            <header>
+                <h3>{{site.current_profile}}</h3>
+                <span class="place">Acko</span>
+                <span class="location">Gurgaon, Haryana, India</span>
+            </header>
+            <div>
+                <ul>
+                   <li>Oversee the end-to-end development lifecycle of Group Health insurance policy, ensuring adherence to project timelines and quality standards.</li>
+                   <li>Successfully leading a team of 8 engineers, fostering collaboration, and providing mentorship to drive high-performance and achieve team goals.</li>
+                    <li>Introduced innovative ideas and technologies to improve system performance, scalability, and reliability, contributing to enhanced customer experience</li>
+                   <li>Collaborated closely with stakeholders, including business leaders, product managers, and other teams, to align engineering efforts with business goals and customer needs</li>
+                   <li>During my Lead Software Engineer stint at Acko, Designed HLD,LLD & led the development of core engine (Policy Administration Service) for Multi-Policy support for Health Insurance.</li>
+                   <li>Technologies used: Java, Postgres, Redis, Elasticsearch, AWS Dynamodb, AWS Lambda, AWS Step function, Spring Boot, Python</li>
+                </ul>
+            </div>
+        </div></section>
         
-        <section class="blocks">
-            <div class="date">
-                <span>Dec 2021</span><span>present</span>
-            </div>
-            <div class="decorator">
-            </div>
-            <div class="details">
-                <header>
-                    <h3>{{site.current_profile}}</h3>
-                    <span class="place">Acko</span>
-                    <span class="location">Gurgaon, Haryana, India</span>
-                </header>
-                <div>
-                    <ul>
-                       <li>Leading a team of 8 engineers for delivering best experience to Corporates having Group Medical Insurance with Acko</li>
-                       <li> Technologies used: Java, Postgres , Redis, Elasticsearch, AWS Dynamodb, AWS Lambda, AWS Step function,Spring</li>
-                    </ul>
-                </div>
-            </div>
-        </section>
-        
-        <section class="blocks">
+<section class="blocks">
             <div class="date">
                 <span>Apr 2016</span><span>Dec 2021</span>
             </div>
