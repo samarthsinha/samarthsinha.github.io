@@ -26,11 +26,9 @@ permalink: /resume
             </header>
             <div>
                 <ul>
-                   <li>Oversee the end-to-end development lifecycle of Group Health insurance policy, ensuring adherence to project timelines and quality standards</li>
-                   <li>Successfully leading a team of 8 engineers, fostering collaboration, and providing mentorship to drive high-performance and achieve team goals</li>
-                    <li>Introduced innovative ideas and technologies to improve system performance, scalability, and reliability, contributing to enhanced customer experience</li>
+                   <li>Successfully leading a team of 8 engineers for delivering Group Health Insurance, fostering collaboration, and providing mentorship to drive high-performance and achieve team goals</li>
                    <li>Collaborated closely with stakeholders, including business leaders, product managers, and other teams, to align engineering efforts with business goals and customer needs</li>
-                   <li>During my Lead Software Engineer stint at Acko, Designed HLD,LLD & led the development of core engine (Policy Administration Service) for Multi-Policy support for Health Insurance.</li>
+                   <li>Designed HLD,LLD & led the development of core engine (Policy Administration Service) for Multi-Policy support for Health Insurance as Lead Software Engineer</li>
                    <li>Technologies used: Java, Postgres, Redis, Elasticsearch, AWS Dynamodb, AWS Lambda, AWS Step function, Spring Boot, Python</li>
                 </ul>
             </div>
@@ -86,7 +84,7 @@ permalink: /resume
                 </div>
             </div>
         </section>
-<!--         <section class="blocks">
+        <section class="blocks">
             <div class="date">
                 <span>Jul 2013</span><span>Dec 2013</span>
             </div>
@@ -107,7 +105,7 @@ permalink: /resume
                     </ul>
                 </div>
             </div>
-        </section> -->
+        </section>
     </section>
     <!--<section class="main-block">
         <h2>
